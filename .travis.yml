@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: AaUhAjIRIPZM4ADLrCEhhqr8HoAPnpBqu/3iMoiDcdBr+vov935JnvQB1D+bMNYzlLavzxLxWhXtJI4Q4WF19QaOOOsOcKJPVQfiyyVkpWrLKmYxmcJigiDSEy1J4MXdg701PsJkkYBVrG/jdaEAFiKbZW1MGk9yQaQtTdbwMjs1z7SARDJHwm1wNYr6qbXU4cqEUTFfLRmKjCcmRWEAASXzJX5c6D1HbC4gqOsvJtgyGoZWpmA63iCZL4UPHlNsA9LXFmo5yklX+65tz2vzmxtTdxSYrcRpykC9JhNSNEMhNgJlHN5EI7j3S+XmrNY15NLx9LDtTt8VP0/dJF+RasXmzFjXT30dwZ0cVWh5fhZkcCEeRwIc/5dr8scDw8Y5cFBBocgJMDaiL91Z52wi9Bt/aNT8aTBfF5IgDogvPrjfv0W2PK5dcx5HMKvkZX1hKZqtWliGqiwxzaYpq/rajyZufCd+aoou5Uqel+OdP8tllAmJLPrQSvr/UqZPz+lMxJnAxnBWhYzuU9x5u4BtGvsIkS0ApcOhdE551rrdH85foWiRfWkpghPf/jg7SyEOPLBOmoEpse3yBzW52V9KSXEGxZk1CB9waL22b5oHFrbrtNvdNQmXka4jrMbg0NYmGeYQZGqGoAg9syROvNTGl68EQRvOwzIZ5sg5VovUhIo=
-  app: ⬢ fierce-river-13839
+  app: fierce-river-13839
   on:
     repo: hzba000/node-restaurants-app-mongoose
     branch: feature/with-tests
